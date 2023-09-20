@@ -1,4 +1,3 @@
-###oli4
 
 **Oli4**
 
@@ -7,8 +6,6 @@
 3. Aardig
 
 *oli4 is een legende*
-
-
 
 Oli4</sup><sup>LEGENDE</sup>
 
