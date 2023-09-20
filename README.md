@@ -6,7 +6,12 @@
 2. Cool
 3. Aardig
 
-Oli^4   ^LEGENDE
+*oli4 is een legende*
+
+
+
+Oli4</sup><sup>LEGENDE</sup>
+
 
 ~~The world is flat.~~
 
